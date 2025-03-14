@@ -1,0 +1,1 @@
+export const skills: string[] = ['JavaScript', 'ReactJS', 'TypeScript', 'NodeJS', 'ExpressJS', 'PHP', 'Laravel', 'Redux', 'HTML', 'CSS', 'MySql', 'MongoDB', 'JSON', 'RESTful API', 'Bootstrap', 'Tailwind', 'MUI', 'Git'];
